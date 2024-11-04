@@ -1,2 +1,8 @@
 02已更新
 03更新
+
+
+报错：error: src refspec master does not match any
+error: failed to push some refs to 'github.com:644360002/xu_sir.git'
+
+解决：确认本地是否存在名为master的分支。使用git branch查看本地分支列表。
