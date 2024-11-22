@@ -1,6 +1,7 @@
 02已更新
 03更新
 20241122
+从远程拉取到本地
 
 报错：error: src refspec master does not match any
 error: failed to push some refs to 'github.com:644360002/xu_sir.git'
